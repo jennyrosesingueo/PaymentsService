@@ -333,5 +333,5 @@ Tests cover:
 ## Developer
 
 **Jenny Rose Singueo**
-09561509151
++63956-1509151
 jennyrosesingueo@gmail.com
