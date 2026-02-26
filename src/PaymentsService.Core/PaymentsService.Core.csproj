@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Jenny Rose Singueo</Authors>
+    <Company>Developer</Company>
+    <Description>Senior Software Engineer Technical Exam</Description>
+  </PropertyGroup>
+
+</Project>

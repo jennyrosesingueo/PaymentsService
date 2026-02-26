@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\PaymentsService.Core\PaymentsService.Core.csproj" />
+    <ProjectReference Include="..\PaymentsService.Services\PaymentsService.Services.csproj" />
+    <ProjectReference Include="..\PaymentsService.Infrastructure\PaymentsService.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.3" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Authors>Jenny Rose Singueo</Authors>
+    <Company>Developer</Company>
+    <Description>Senior Software Engineer Technical Exam</Description>
+  </PropertyGroup>
+
+</Project>

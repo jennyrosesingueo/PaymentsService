@@ -1,0 +1,21 @@
+## Build output
+bin/
+obj/
+
+## SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+## .NET
+*.user
+.vs/
+.vscode/
+.idea/
+
+## Secrets — never commit real secrets
+# appsettings.Development.json contains dev-only placeholders;
+# production secrets must be supplied via environment variables.
+appsettings.Production.json
+appsettings.Staging.json
+secrets.json
